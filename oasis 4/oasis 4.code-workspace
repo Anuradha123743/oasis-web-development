@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../oasis 5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oasis 5"
+	}
+}
